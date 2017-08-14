@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Caveat+Brush|Lobster');
+
+body {
+  background: #A28D5B;
+  }
+.navbar {
+  border-radius: 0;
+}
+.jumbotron {
+  background: black;
+  color: #A28D5B;
+  font-family: 'Caveat Brush', cursive;
+}
+.btn-default {
+  background: #A28D5B !important;
+  border: none;
+}
+.text-right {
+  font-family: 'Lobster', cursive;
+}
+h1 {
+  font-family: 'Anton', sans-serif;
+}
